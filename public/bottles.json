@@ -1,0 +1,113 @@
+[
+    {
+      "id": "WB001",
+      "category": "Sports & Outdoors",
+      "name": "HydroChill Sports Water Bottle",
+      "seller": "AquaGear",
+      "price": 12.99,
+      "stock": 150,
+      "ratings": 4.5,
+      "ratingsCount": 120,
+      "img": "https://picjj.com/images/2024/05/09/sUCtD.jpeg"
+    },
+    {
+      "id": "WB002",
+      "category": "Fitness",
+      "name": "EcoHydrate Gym Bottle",
+      "seller": "HydroFit",
+      "price": 9.99,
+      "stock": 200,
+      "ratings": 4.3,
+      "ratingsCount": 90,
+      "img": "https://picjj.com/images/2024/05/09/sU2ru.jpg"
+    },
+    {
+      "id": "WB003",
+      "category": "Travel",
+      "name": "TravelPro Collapsible Water Bottle",
+      "seller": "GlobeTrek",
+      "price": 14.50,
+      "stock": 100,
+      "ratings": 4.7,
+      "ratingsCount": 150,
+      "img": "https://picjj.com/images/2024/05/09/sUp5k.jpeg"
+    },
+    {
+      "id": "WB004",
+      "category": "Kids",
+      "name": "SplashBuddy Kids Water Bottle",
+      "seller": "TinyTots",
+      "price": 7.99,
+      "stock": 300,
+      "ratings": 4.8,
+      "ratingsCount": 180,
+      "img": "https://picjj.com/images/2024/05/09/sUsVe.jpeg"
+    },
+    {
+      "id": "WB005",
+      "category": "Outdoor",
+      "name": "AdventureMate Hiking Bottle",
+      "seller": "OutdoorGear",
+      "price": 19.99,
+      "stock": 120,
+      "ratings": 4.6,
+      "ratingsCount": 100,
+      "img": "https://picjj.com/images/2024/05/09/sUhWA.jpg"
+    },
+    {
+      "id": "WB006",
+      "category": "Fitness",
+      "name": "FitZone Protein Shaker",
+      "seller": "FitnessFusion",
+      "price": 8.50,
+      "stock": 180,
+      "ratings": 4.4,
+      "ratingsCount": 130,
+      "img": "https://picjj.com/images/2024/05/09/sUF8a.jpg"
+    },
+    {
+      "id": "WB007",
+      "category": "Office",
+      "name": "OfficeFlow Desk Bottle",
+      "seller": "WorkWell",
+      "price": 11.99,
+      "stock": 250,
+      "ratings": 4.2,
+      "ratingsCount": 110,
+      "img": "https://picjj.com/images/2024/05/09/sUrRr.jpg"
+    },
+    {
+      "id": "WB008",
+      "category": "Travel",
+      "name": "VoyageMate Insulated Bottle",
+      "seller": "TravelEssentials",
+      "price": 16.99,
+      "stock": 80,
+      "ratings": 4.9,
+      "ratingsCount": 200,
+      "img": "https://picjj.com/images/2024/05/09/sU6cq.jpg"
+    },
+    {
+      "id": "WB009",
+      "category": "Sports & Outdoors",
+      "name": "TrailBlaze Bike Bottle",
+      "seller": "BikeZone",
+      "price": 13.75,
+      "stock": 150,
+      "ratings": 4.5,
+      "ratingsCount": 140,
+      "img": "https://picjj.com/images/2024/05/09/sU7io.jpg"
+    },
+    {
+      "id": "WB010",
+      "category": "Fitness",
+      "name": "GymGrip Squeeze Bottle",
+      "seller": "FitFreaks",
+      "price": 6.99,
+      "stock": 220,
+      "ratings": 4.1,
+      "ratingsCount": 95,
+      "img": "https://picjj.com/images/2024/05/09/sUeas.jpg"
+    }
+  ]
+  
